@@ -33,10 +33,9 @@ A simple and interactive Tic-Tac-Toe game built using [your tech stack, e.g., HT
 - Multiplayer mode (online play)  
 - Customizable board sizes  
 
-📌 **Contributions are welcome!** Feel free to fork the repo and submit pull requests.  
+📌 **Contributions are welcome!** Feel free to fork the repo and submit pull request.. 
 
-🔗 **Live Demo**: [If applicable, add a link]  
-📧 **Contact**: [Your email or social media]  
+📧 **Contact**: neeteshk1104@gmail.com
 
 ---
 
