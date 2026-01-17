@@ -1,6 +1,4 @@
-Here's a description you can use for your Tic Tac Toe game on GitHub:  
 
----
 
 # 🎯 Tic-Tac-Toe Game..  
 
