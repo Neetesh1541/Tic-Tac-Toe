@@ -1,6 +1,6 @@
 
 
-# 🎯 Tic-Tac-Toe Game..
+# 🎯 Tic-Tac-Toe Game... 
 
 A simple and interactive Tic-Tac-Toe game built using [your tech stack, e.g., HTML, CSS, JavaScript / Python]. Play against a friend or challenge an AI opponent!  
 
