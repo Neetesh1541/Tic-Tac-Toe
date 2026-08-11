@@ -61,5 +61,5 @@ start_button.grid(row=2, column=0, columnspan=2)
 
 buttons = {}
 
-root.mainloop()
+root.mainloop()   //end
 
