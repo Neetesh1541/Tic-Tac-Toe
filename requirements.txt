@@ -1,0 +1,2 @@
+# Tic-Tac-Toe Pro uses Python standard-library modules only.
+# Tkinter is required for the desktop interface.
