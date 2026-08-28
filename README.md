@@ -1,4 +1,4 @@
-# 🎯 Tic-Tac-Toe Pro
+# 🎯 Tic-Tac-Toe 
 
 A polished Tic-Tac-Toe desktop game built with Python and Tkinter.
 
