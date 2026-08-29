@@ -1,36 +1,43 @@
-# 🎯 Tic-Tac-Toe 
+# 🎯 Tic-Tac-Toe
 
-A polished Tic-Tac-Toe desktop game built with Python and Tkinter.
+A polished desktop Tic-Tac-Toe game built with **Python and Tkinter**, featuring both local multiplayer and an AI opponent.
 
 ## ✨ Features
-- Modern dark-themed UI
-- Two game modes: **Two Players** and **Vs AI**
-- Unbeatable AI opponent using minimax
-- Live turn indicator
-- Scoreboard for X, O, and draws
-- New round, reset scores, and change players controls
-- Player-name validation
 
-## 🚀 Run the game
+- 🎨 Modern dark-themed interface
+- 👥 Two-player mode
+- 🤖 Vs AI mode
+- 🧠 Unbeatable AI using the **Minimax** algorithm
+- 🔄 New round and score reset controls
+- 📊 Scoreboard for X, O, and draws
+- 👤 Player-name validation
+- 🟢 Live turn indicator
+
+## 🧠 AI Strategy
+
+The AI evaluates possible game states using Minimax and chooses the strongest available move. Detailed AI documentation is available in [`docs/AI.md`](docs/AI.md).
+
+## 🚀 Run Locally
 
 ```bash
 python "tic tac toe.py"
 ```
 
-## 🧠 AI
-
-The Vs AI mode uses minimax to evaluate possible game states and select the strongest available move. See [`docs/AI.md`](docs/AI.md) for details.
-
-## 🗂️ Documentation
+## 📚 Documentation
 
 - [Architecture](docs/ARCHITECTURE.md)
-- [AI strategy](docs/AI.md)
-- [Gameplay guide](docs/PLAYING.md)
-- [Game rules](docs/GAME_RULES.md)
-- [Development notes](docs/DEVELOPMENT.md)
+- [AI Strategy](docs/AI.md)
+- [Gameplay Guide](docs/PLAYING.md)
+- [Game Rules](docs/GAME_RULES.md)
+- [Development Notes](docs/DEVELOPMENT.md)
 - [Roadmap](ROADMAP.md)
 
 ## 🛠️ Tech Stack
 
 - Python 3
 - Tkinter
+- Minimax algorithm
+
+## 👨‍💻 Author
+
+Built by **Neetesh Sharma**.
