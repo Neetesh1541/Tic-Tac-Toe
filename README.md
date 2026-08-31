@@ -1,27 +1,31 @@
 # 🎯 Tic-Tac-Toe
 
-A polished desktop Tic-Tac-Toe game built with **Python and Tkinter**, featuring both local multiplayer and an AI opponent.
+A polished desktop Tic-Tac-Toe game built with **Python and Tkinter**, featuring local multiplayer and an AI opponent powered by the **Minimax algorithm**.
 
 ## ✨ Features
 
-- 🎨 Modern dark-themed interface
-- 👥 Two-player mode
-- 🤖 Vs AI mode
-- 🧠 Unbeatable AI using the **Minimax** algorithm
-- 🔄 New round and score reset controls
-- 📊 Scoreboard for X, O, and draws
+- 🎨 Modern dark-themed desktop interface
+- 👥 Local two-player mode
+- 🤖 Play against an AI opponent
+- 🧠 Unbeatable Minimax-based AI
+- 📊 Live scoreboard for X, O, and draws
+- 🟢 Clear turn indicator
 - 👤 Player-name validation
-- 🟢 Live turn indicator
+- 🔄 New-round and score-reset controls
 
-## 🧠 AI Strategy
+## 🧠 AI & Game Logic
 
-The AI evaluates possible game states using Minimax and chooses the strongest available move. Detailed AI documentation is available in [`docs/AI.md`](docs/AI.md).
+The AI evaluates available game states with Minimax and selects the strongest move. The implementation and decision-making flow are documented in [`docs/AI.md`](docs/AI.md).
 
-## 🚀 Run Locally
+## 🚀 Getting Started
+
+### Run locally
 
 ```bash
 python "tic tac toe.py"
 ```
+
+No external package is required beyond Python's standard Tkinter installation.
 
 ## 📚 Documentation
 
@@ -34,10 +38,14 @@ python "tic tac toe.py"
 
 ## 🛠️ Tech Stack
 
-- Python 3
-- Tkinter
-- Minimax algorithm
+| Technology | Purpose |
+|---|---|
+| Python 3 | Application logic |
+| Tkinter | Desktop UI |
+| Minimax | AI decision making |
 
 ## 👨‍💻 Author
 
 Built by **Neetesh Sharma**.
+
+If you found the project useful, feel free to explore the code and experiment with the game logic.
